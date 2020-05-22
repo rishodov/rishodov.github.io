@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:34:44	238/238	---M--	200	added ('OK')	text/plain	etag:%22420143-ee-564fba5283d80%22	https://randstuff.ru/robots.txt		(from )
+09:34:45	11149/11149	---MC-	200	added ('OK')	text/html	date:Mon,%2018%20May%202020%2004:34:44%20GMT	https://randstuff.ru/number/	/Users/khodja/websites/randstuff/randstuff.ru/number/index.html	(from )

@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Mon, 18 May 2020 09:34:43 at https://randstuff.ru/number/
+(winhttrack https://randstuff.ru/number/ -W -O "/Users/khodja/websites/randstuff" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:34:45	Warning: 	Note: due to https://randstuff.ru remote robots.txt rules, links beginning with these path will be forbidden: /appvkwin, /appvknum (see in the options to disable this)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 2 links scanned, 1 files written (11149 bytes overall) [12276 bytes received at 6138 bytes/sec]
+(No errors, 1 warnings, 0 messages)

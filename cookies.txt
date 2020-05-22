@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+randstuff.ru	TRUE	/	FALSE	1999999999	PHPSESSID	gqp17pd3813k5namv9osk8f0u6
+randstuff.ru	TRUE	/	FALSE	1999999999	uid	922e7abf2a0bfbb5d2f425cae9e535f7
+
